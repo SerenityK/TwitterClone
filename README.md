@@ -6,8 +6,7 @@ To make the project simple, we do not have a sign/login function.
 So there are not user accounts and follow function. You can challenge after you finish the course.
 Check out [LIVE DEMO here!!](https://twitter-clone-serenity.herokuapp.com/)
 # Screenshot
-![Screenshot 1401-01-10 at 15 28 25](https://user-images.githubusercontent.com/100750452/160805459-2a391db7-010b-4624-9c65-dc38e5802c64.png)
-# Tech used
+<img width="1440" alt="Screen Shot 2022-09-01 at 3 29 17 PM" src="https://user-images.githubusercontent.com/103469793/188024181-8c7232f1-6398-4435-a332-daaac5510df7.png"># Tech used
 * Html
 * Css
 * Bootstrap
